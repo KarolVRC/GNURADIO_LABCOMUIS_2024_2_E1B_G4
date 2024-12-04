@@ -1,0 +1,1 @@
+En esta práctica se inició el uso de GitHub para gestionar proyectos y trabajar de manera colaborativa. Se exploraron sus funciones básicas, como la creación de repositorios y el seguimiento de cambios. Esto permitió entender cómo organizar y compartir trabajos de forma más eficiente, sentando las bases para utilizar esta herramienta en futuros proyectos.
